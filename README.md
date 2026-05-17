@@ -1,4 +1,4 @@
-# CryptoACTION - Frontend Use this GitHub-style tech badges line (copy‑paste into README):
+# CryptoACTION - Frontend:
 
 [![Vue 3](https://img.shields.io/badge/Vue-3-42b883?logo=vue&logoColor=white)](https://vuejs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Vite](https://img.shields.io/badge/Vite-⚡-646cff?logo=vite&logoColor=white)](https://vitejs.dev/) [![Prettier](https://img.shields.io/badge/Prettier-✨-f7b93e?logo=prettier&logoColor=white)](https://prettier.io/) [![Leaflet](https://img.shields.io/badge/Leaflet-4caf50?logo=leaflet&logoColor=white)](https://leafletjs.com/)
 
